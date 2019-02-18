@@ -11,6 +11,7 @@ import org.springframework.web.bind.annotation.RestController;
 @EnableAutoConfiguration
 public class Application {
 
+    //For initial commit
     @RequestMapping("/")
     String home() {
         Greeter greeter = new Greeter();
