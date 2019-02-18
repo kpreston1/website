@@ -14,6 +14,7 @@
       <change beforePath="$PROJECT_DIR$/../../FinalForProgrammingAssignment1/FinalFinal/footballStats.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../classes/CSCE315/CSCE_315_P2" beforeDir="false" afterPath="$PROJECT_DIR$/../../classes/CSCE315/CSCE_315_P2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../classes/CSCE315/CSCE_315_P3" beforeDir="false" afterPath="$PROJECT_DIR$/../../classes/CSCE315/CSCE_315_P3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../p1/MP1_report.docx" beforeDir="false" />
@@ -43,7 +44,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/hello/Application.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="195">
@@ -66,11 +67,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="615">
-              <caret line="41" selection-start-line="41" selection-end-line="41" />
+            <state relative-caret-position="501">
+              <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
             </state>
           </provider>
         </entry>
@@ -99,8 +100,8 @@
       <list>
         <option value="$PROJECT_DIR$/src/main/java/hello/HelloWorld.java" />
         <option value="$PROJECT_DIR$/src/test/java/hello/GreeterTest.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/hello/Application.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -209,7 +210,7 @@
     <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550453881096" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550455600311" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -253,12 +254,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1550349354994</updated>
-      <workItem from="1550349358586" duration="2780000" />
+      <workItem from="1550349358586" duration="2822000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2780000" />
+    <option name="totallyTimeSpent" value="2822000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -270,7 +271,7 @@
       <window_info id="UI Designer" />
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Web" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24555735" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24555735" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Spring" />
       <window_info anchor="bottom" id="Terminal" />
@@ -282,7 +283,7 @@
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32465753" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32465753" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -320,13 +321,6 @@
         <state relative-caret-position="-432" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="615">
-          <caret line="41" selection-start-line="41" selection-end-line="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/hello/Greeter/Greeter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -343,6 +337,13 @@
             <element signature="e#412#413#0" expanded="true" />
             <element signature="e#470#471#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="501">
+          <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
         </state>
       </provider>
     </entry>
