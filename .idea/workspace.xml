@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="087ff68c-eaa1-44f3-b2f6-9a98bc6e80b3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/hello/GreeterTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../FinalForProgrammingAssignment1/FinalFinal/AFC.xlsx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../FinalForProgrammingAssignment1/FinalFinal/Kyle_Preston_project1_individualProjectReport.docx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../FinalForProgrammingAssignment1/FinalFinal/NFC.xlsx" beforeDir="false" />
@@ -17,6 +13,7 @@
       <change beforePath="$PROJECT_DIR$/../../FinalForProgrammingAssignment1/FinalFinal/commons-math3-3.4.1.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../FinalForProgrammingAssignment1/FinalFinal/footballStats.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../classes/CSCE315/CSCE_315_P2" beforeDir="false" afterPath="$PROJECT_DIR$/../../classes/CSCE315/CSCE_315_P2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../classes/CSCE315/CSCE_315_P3" beforeDir="false" afterPath="$PROJECT_DIR$/../../classes/CSCE315/CSCE_315_P3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../p1/MP1_report.docx" beforeDir="false" />
@@ -212,7 +209,7 @@
     <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550453147966" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550453881096" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -256,12 +253,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1550349354994</updated>
-      <workItem from="1550349358586" duration="2294000" />
+      <workItem from="1550349358586" duration="2780000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2294000" />
+    <option name="totallyTimeSpent" value="2780000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
